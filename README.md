@@ -1,4 +1,6 @@
-# Household-Power-Cunsumption-Prediction
+# Household-Power-Consumption-Prediction
+- The object is to determine which features are indicators of energy consumption.
+
 `Dataset`: KAG_energydata_complete.csv <br>
 `Available from`: https://www.kaggle.com/datasets/loveall/appliances-energy-prediction/data
 
